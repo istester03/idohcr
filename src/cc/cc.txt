@@ -1,0 +1,4 @@
+cc
+cc.txt
+this is a text file.
+No results matched your search.
